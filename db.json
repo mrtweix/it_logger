@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "message": "Server 021 up & running",
-      "attention": false,
-      "tech": "B Singh",
-      "date": "2020-07-23T10:55:44.893Z",
-      "id": 1
-    },
-    {
-      "message": "Hard drive crash on workstation 021",
+      "id": 1,
+      "message": "Server 001 down",
       "attention": true,
       "tech": "G Deep",
-      "date": "2020-07-23T10:56:21.561Z",
+      "date": "2020-07-23T15:25:37.327Z"
+    },
+    {
+      "message": "Workstation 002 added to inventory",
+      "attention": false,
+      "tech": "G Deep",
+      "date": "2020-07-23T15:14:12.059Z",
       "id": 2
     },
     {
-      "message": "Hard drive fixed on workstation 021",
+      "id": 3,
+      "message": "Fixed hard rive on local syatem",
       "attention": false,
-      "tech": "Bablu G",
-      "date": "2020-07-23T10:56:50.619Z",
-      "id": 3
+      "tech": "G Deep",
+      "date": "2020-07-23T15:17:43.835Z"
     }
   ],
   "techs": [
