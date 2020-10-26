@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Server 001 down",
-      "attention": true,
-      "tech": "G Deep",
-      "date": "2020-07-23T15:25:37.327Z"
-    },
-    {
       "message": "Workstation 002 added to inventory",
       "attention": false,
       "tech": "G Deep",
