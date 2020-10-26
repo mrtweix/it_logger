@@ -20,7 +20,7 @@ function App() {
     <Provider store={store}>
       <Fragment>
         <SearchBar />
-        <div className="container-fluid">
+        <div className="container-fluid-container">
           <AddBtn />
           <AddLogModal />
           <EditLogModal />
